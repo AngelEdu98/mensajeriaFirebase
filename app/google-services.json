@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893828179677",
+    "project_id": "movilfirebase-c3a76",
+    "storage_bucket": "movilfirebase-c3a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893828179677:android:270a67d013a18455501d34",
+        "android_client_info": {
+          "package_name": "movil.firebase.mensajeriafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKkEcgZZy945zddaGNwChtRIjcntdwSpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
